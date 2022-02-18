@@ -9,7 +9,8 @@
   
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin volutpat pulvinar velit, id consequat velit suscipit sit amet. Morbi molestie enim at tortor vestibulum vulputate nec non est. Cras vulputate consectetur urna, ut condimentum elit tincidunt a. Suspendisse bibendum libero mauris, et venenatis neque consequat sed. Suspendisse posuere eleifend ex et lacinia. Praesent vel risus quis orci ornare consectetur suscipit eget quam.
+Adventure travel is a type of niche tourism, involving exploration or travel with a certain degree of risk (real or perceived), and which may require special skills and physical exertion.Adventure tourists may have the motivation to achieve mental states characterized as rush or flow, resulting from stepping outside their comfort zone. This may be from experiencing culture shock or by performing acts requiring significant effort and involve some degree of risk, real or perceived, or physical danger. This may include activities such as mountaineering, trekking, bungee jumping, mountain biking, cycling etc.
+
 
 ## 🤷🏼‍♂️ About This Project
 
